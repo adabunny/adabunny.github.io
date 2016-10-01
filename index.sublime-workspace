@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5614,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/turingm-web"
+	],
+	"file_history":
+	[
+		"/G/turingm-web/products.html",
+		"/G/turingm-web/index.html",
+		"/G/turingm-web/contact.html",
+		"/G/turingm-web/app.yaml",
+		"/G/micolog/app.yaml",
+		"/G/micolog/index.yaml",
+		"/G/turingm-web/turingmonkey.com/app.yaml",
+		"/G/turingm-web/index.yaml",
+		"/G/turingm-web/main.py",
+		"/G/turingm-web/css/swipebox.css",
+		"/G/turingm-web/css/style.css",
+		"/G/turingm-web/css/bootstrap.css",
+		"/D/DATA/B2CMarketingDW.mdf",
+		"/D/DATA/B2CMarketing_log.ldf",
+		"/E/FTP/softwares/Sublime Text Build 3103 主程序 + 破解 + 汉化/Default.sublime-package",
+		"/E/FTP/softwares/Sublime Text Build 3103 主程序 + 破解 + 汉化/激活码.txt",
+		"/G/turingm-web/index.sublime-project",
+		"/G/turingm-web/map.html",
+		"/C/Users/Administrator/Downloads/201501086/html/contact.html",
+		"/G/website/products.html",
+		"/G/website/contact.html",
+		"/G/website/index.html",
+		"/G/website/about.html",
+		"/G/website/css/style.css",
+		"/G/website/images/logo.png",
+		"/E/FTP/docs/dbo.Products.sql",
+		"/E/FTP/softwares/HEU_KMS_Activator_CH_v10.0.0/HEU_KMS_Activator_CH_v10.0.0/更新日志.txt",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/Indexing.sql",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/GenerateGo3PreferencesOfCategory.sql",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/GeneratePreferencesOfCategory.sql",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/GenerateGo4PreferencesOfCategory.sql",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/GenerateCustomers.sql",
+		"/G/tm data project/t-sql scripts/01.1st stage of data project@20160828/db.sql",
+		"/E/FTP/data/apple accessory products.csv"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"about",
+			"sitemap",
+			"about",
+			"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.",
+			"load",
+			"hideURLbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"products",
+			"contact",
+			"products",
+			"Product Description"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
